@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&display=swap');
+
+body{
+font-family: bodoni moda  ;
+background-color: black;
+}
+ 
+h1,h2,h3,h4{
+
+text-align: center;
+color: white;
+
+
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    background-color: white;
+    
+}
+
+
+nav {
+    background-color: black;
+    height: 100px;
+    text-align: left;
+    
+}
+.candy  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    justify-content: space-evenly;
+
+}
+
+a {
+text-decoration: none;
+color: white;
+
+}
+
+#amongus {
+
+color: black;
+}
+
+.bestie {
+
+    color: black;
+    color: black;
+
+}
+
+*{
+    padding:0;
+    margin:0;
+  }
+.image-middle{
+    margin: auto;
+    margin-left: 800px;
+}
+
+.icecream{
+    margin: auto;
+    margin-left: 400px;
+}
+
+.floating{
+    margin: auto;
+    margin-left: 400px;
+}
+
+.huge{
+    margin: auto;
+    margin-left: 800px;
+}
+
+.sea{
+    margin: auto;
+    margin-left: 800px;
+}
+
+.spots{
+    margin: auto;
+    margin-left: 370px;
+}
+
+
+
+.mahika{
+    margin: auto;
+    margin-left: 500px;
+}
